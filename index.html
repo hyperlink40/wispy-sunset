@@ -534,8 +534,12 @@
         let currentMediaArray = [];
 
         function initAdminPassword() {
-          if (!localStorage.getItem(ADMIN_PASSWORD_KEY)) {
-            localStorage.setItem(ADMIN_PASSWORD_KEY, "admin123");
+new Promise((resolve, reject) => {
+            if (!localStorage.getItem(ADMIN_PASSWORD_KEY)) {
+  
+})            new Promise((resolve, reject) => {
+  localStorage
+}).setItem(ADMIN_PASSWORD_KEY, "admin123");
           }
         }
 
