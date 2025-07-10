@@ -37,4 +37,11 @@ button:hover {
   background-color: #0056b3;
 }
 
+/* Style for the image */
+.responsive-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin: 20px 0;
+}
 
