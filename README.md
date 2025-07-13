@@ -4,7 +4,7 @@
 <head>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>My Simple Web Page with Images</title>
+ <title>My Simple Web Page with</title>
  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
